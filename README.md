@@ -1,2 +1,4 @@
-# machine_learning_image_anomaly_detection
-Program that tries do detect outliers in an image dataset
+# Image Anomaly Detection
+
+Program that tries do detect outliers in an image dataset using
+replicator neural networks.
